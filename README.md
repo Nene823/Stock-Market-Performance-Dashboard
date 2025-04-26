@@ -25,7 +25,7 @@ This report presents an analysis of a stock market dataset comprising historical
 6. Verified there were no duplicate entries.
 7. Rounded prices to 2 decimal places for consistency in analysis.
 
-4.## Summary Statistics
+4. ## Summary Statistics
 ### Basic statistical summaries were derived for key columns:
 - Average Close Price per Stock
 - Average daily change 
