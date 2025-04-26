@@ -1,4 +1,4 @@
-#Stock Market Performance Report
+# Stock Market Performance Report
 
 1. ## Executive summary 
 This report provides a comprehensive analysis of historical stock market data sourced from multiple publicly traded companies. By examining trading activity, pricing behavior, and volatility trends, the goal is to uncover actionable insights that support investment decisions and performance evaluation. The dataset, after thorough cleaning and transformation, enables detailed exploration using SQL queries and Power BI visualizations. Key metrics such as average closing prices, trading volumes, and stock volatility are presented to highlight patterns across time and companies. This report serves as a foundation for both technical analysis and strategic market understanding.
